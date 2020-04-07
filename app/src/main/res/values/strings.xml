@@ -1,0 +1,300 @@
+<resources>
+    <string name="app_name">Coronavirus</string>
+    <string name="Countries">Countries</string>
+    <string name="virus">Corona</string>
+    <string name="prevention">Prevention</string>
+    <string name="symptoms">Symptoms</string>
+
+    <string name="cases">Cases</string>
+
+    <array name="data_country">
+        <item>Cases</item>
+        <item>New Cases</item>
+        <item>Deaths</item>
+        <item>Total Recovered</item>
+        <item>New Deaths</item>
+        <item>Serious Critical</item>
+        <item>Active Cases</item>
+        <item>Total Cases Per 1m Population</item>
+    </array>
+
+    <string name="notfound">Not Found</string>
+
+
+
+
+
+    <array name="corona_questions">
+        <item>What is corona virus?</item>
+        <item>What is Covid-19 disease?</item>
+        <item>How does the virus spread?</item>
+        <item> Can the virus that causes Covid-19 be transmitted through the air? </item>
+        <item> Can someone get sick with asymptomatic? </item>
+        <item> Who is at risk for severe disease? </item>
+        <item> Is there a vaccine, drug, or treatment for Covid-2019? </item>
+        <item> Should I put a mask to protect myself? </item>
+        <item> How long does it take from infection with the onset of symptoms? </item>
+        <item> Should I avoid shaking hands due to the emerging corona virus? </item>
+    </array>
+
+    <array name="corona_answer">
+                <item> Coronaviruses are a large group of viruses that may cause disease in animals and humans. It is known that a number of coronaviruses cause human respiratory infections that range from common colds to more severe diseases such as the Middle East Respiratory Syndrome and severe acute respiratory syndrome (SARS). The newly discovered Coronavirus causes the Corvid-19 virus. </item>
+                <item> Trauma-Covid-19 is an infectious disease caused by the newly discovered Coronavirus. There was no knowledge of this virus and this emerging disease before the outbreak of outbreak in the Chinese city of Yuhan in December 2019. </item>
+                <item> People can become infected with Covid-19 disease by other people who have the virus. The disease can be transmitted from person to person through small droplets scattered from the nose or mouth when a person with Covid-19 disease coughs or sneezes. These droplets fall on the objects and surfaces surrounding the person. Other people can then develop Covid-19 disease when they come into contact with these objects or surfaces and then touch their eyes, nose, or mouth. People can also get Covid-19 disease if they breathe droplets that come out of the person with the disease with a cough or exhale. So it is important to stay away from the sick person more than one meter (3 feet). </item>
+                <item> Studies conducted to this day indicate that the virus that causes Covid-19 disease is transmitted primarily through contact with respiratory droplets rather than through the air. </item>
+                <item> The main method of transmission of the disease is the respiratory droplets that a person secretes when coughing. The risk of Covid-19 disease is diminished by someone asymptomatic. But many people with the disease have only slight symptoms. This is especially true in the early stages of the disease. Therefore, Covid-19 can be infected by a person who suffers from a mild cough and does not feel ill. </item>
+                <item> The effect of Covid-19 disease on people under study is still present, yet it appears that the elderly and people with pre-existing medical conditions (such as high blood pressure, heart disease and diabetes) have more severe disease than others. </item>
+                <item> Not yet. To date, there is neither a vaccine nor a specific antiviral medication to prevent or treat Covid-2019 disease. However, those with it should receive care to relieve symptoms. People with severe illness should be hospitalized. Most patients recover with supportive care. </item>
+                <item> Do not wear a mask unless you have symptoms of Covid-19 disease (especially coughing) or if you are caring for someone who may have this disease. You can only use the single-use muzzle only once. If you are not sick or if you care for a sick person, you will have wasted a muzzle unnecessarily. Given the lack of masks supplies globally, the organization is urging people to be wise to use them. </item>
+                <item> Most estimates of Covid-19 incubation range from 1 to 14 days, and usually last five days. These estimates will be updated as more data becomes available. </item>
+                <item> Yes, because respiratory viruses can be transmitted by handshaking and by touching the eyes, nose, and mouth. Greeting by waving remotely, gesture, or bowing instead of shaking hands. </item>
+            </array>
+
+
+    <array name="prevention_category">
+        <item>How to wash hands</item>
+        <item>House Tips</item>
+        <item>Why the mask</item>
+        <item>Crowding</item>
+        <item>Smoking</item>
+        <item>Travel Tips</item>
+    </array>
+
+
+    <!-- Symptoms-->
+    <string name="symptoms_first_line">Corona virus (Covid-19) has mild symptoms that include the following:-</string>
+    <string name="runny_nose">● Runny nose</string>
+    <string name="sore_throat">● Sore throat</string>
+    <string name="coughing">● Coughing</string>
+    <string name="fever">● fever</string>
+    <string name="difficulty_breathing">● Difficulty breathing (severe cases)</string>
+    <string name="symptoms_second_line">The most common symptoms of Covid-19 disease are</string>
+    <string name="tiredness">● Tiredness</string>
+    <string name="dry_cough">● Dry cough</string>
+    <string name="symptoms_third_line">Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea.</string>
+    <string name="symptoms_fourth_line">If you develop a fever, cough, and have difficulty breathing</string>
+    <string name="symptoms_five_line">promptly seek medical care. Call in advance and tell your health provider of any recent travel or recent contact with travelers.</string>
+
+    <!-- Prevention-->
+    <string name="mask_answer">
+             <![CDATA[
+        <p>There is no need for healthy people to wear masks. Rather, people who are suspected of infection should be contacted and should be worn if you suffer from coughing or sneezing.
+<br> <br>
+If you are wearing a mask, you must learn the correct way to wear and dispose of it.
+<br> <br>
+<b>
+How to use, use, remove and dispose of the mask
+</b>
+<br> <br>
+1- Remember that the use of the mask should be limited to health workers, caregivers and people with respiratory symptoms such as fever and cough.
+<br> <br>
+2- Before touching the mask, clean your hands by rubbing them with an alcohol cleanser or by washing them with soap and water.
+<br> <br>
+3- Hold the mask and check it to make sure it is not torn or perforated.
+<br> <br>
+4- Select the top end of the mask (the position of the metal strip).
+<br> <br>
+5- Make sure to point the correct side of the mask out (the colored side).
+<br> <br>
+6- Place the mask on your face. Press the metallic tape or the hardened tip of the mask to shape your nose.
+<br> <br>
+7- Pull the bottom of the muzzle to cover your mouth and chin.
+<br> <br>
+8- After use, remove the mask by removing the elastic band from behind the ears, keeping the muzzle away from your face and clothes to avoid coming into contact with potentially contaminated mask parts.
+<br> <br>
+9- Dispose of the used mask immediately by throwing it in a closed waste bin.
+<br> <br>
+10- Clean your hands after touching the mask or throwing it by rubbing it with an alcohol disinfectant, or if washing them with soap and water if they are clearly dirty.
+<br> <br>
+        </p>
+        ]]>
+    </string>
+    <string name="wash_answer">
+     <![CDATA[
+    <p>Yes, there is a right way to wash your hands. It is an art form and is a multi-step process.
+    <br> <br>
+
+    Here is how to wash your hands, according to the CDC:
+    <br> <br>
+    <b> <font color = "red"> Step 1 </font> </b>
+    <br> <br>
+    Damp your hands with clean, running water. Put the soap on your hands.
+    <br> <br>
+
+    <b> <font color = "red"> Step 2 </font> </b>
+    <br> <br>
+    Rub your hands with soap foam. Place the foam on the back of your hands, between your fingers and under your nails.
+    <br> <br>
+
+    The foam causes friction, stripping irritating germs and dirt from the skin. Make sure to reach the corners, as the germs lie there.
+    <br> <br>
+    <b> <font color = "red"> Step 3 </font> </b>
+    <br> <br>
+    Rub your hands for at least 20 seconds. Sing or hum "happy birthday" twice to count the time.
+    <br> <br>
+
+    There is no magic number, but washing your hands for at least 20 seconds removes microbes more than washing hands for shorter periods.
+    <br> <br>
+    <b> <font color = "red"> Step 4 </font> </b>
+    <br> <br>
+    Rinse your hands well under clean, running water. You have got germs removed from your hands, because clean water flushes them out.
+    <br> <br>
+    <b> <font color = "red"> Step 5 </font> </b>
+    <br> <br>
+    Dry your hands with a clean towel or dry them with air. Wet hands transmit viruses easily. So drying them reduces this risk.
+    <br> <br>
+    Soap and water are one of the best ways to protect against viruses, but hand sanitizer is a good alternative if you can not wash your hands. Simply put a small amount of cleanser and rub your hands together for about 20 seconds. Hand sanitizers will not get rid of dirt, chemicals, or a few germs, but they are better than nothing.        </p>
+
+    ]]>
+
+    </string>
+    <string name="home_answer">
+        <![CDATA[
+        <p>
+       After the spread of the Corona virus worldwide, each of us seeks to prevent the risk of infection and sterilize all parts of the home, in light of the isolation that some countries follow to reduce the spread of Corona. <br> <br>
+
+In light of the fear and panic that afflicts us, we show you the correct ways to sterilize the home to protect against viruses, especially corona.
+        <br> <br>
+<b> <font color = "red"> Hand-washing </font> </b> <br> <br>
+
+It is recommended to wash hands frequently, especially before eating and after dealing in paper and metal currencies, when shaking hands with others or pressing the elevator piston, or using the hand to climb up the ladder or shopping, and washing hands with any type of soap continues for between 30 and 50 seconds. <br> <br>
+
+Experts stressed that eliminating viruses has nothing to do with the amount of sterilizers used, but rather the method of use is the basis. <br> <br>
+
+They explained that applying sterilizers to all parts of the hands, and massaging the fingers, thumb and wrists well, is the basis in fighting corona and killing the virus. <br> <br> <br>
+
+Despite all the benefits of an alcohol hand sanitizer to protect against viruses, it can be harmful to the skin, because excessive use of alcohol may absorb the surrounding water molecules, causing dry skin. <br> <br> <br>
+
+<b> <font color = "red"> House Cleansing </font> </b> <br> <br>
+
+All fine antiques, statues, and dried roses should be isolated at home or work, as they are difficult to sterilize due to the large number of folds, so it is advisable to completely isolate them and cover them with bags to facilitate the daily sterilization process later. <br> <br> <br>
+
+The first step in disinfecting household surfaces is by using a package of dilute chlorine (20 cm chlorine mixed with a filter of water), and it is placed in a spray to spray the surfaces and wipe the floors. <br> <br> <br>
+
+This packaging is not suitable for use; only within 24 hours, because it will lose its ability to cleanse and a new solution must be made every day, and that cycle must be repeated once every 24 hours on the same surfaces, which must remain wet for a period of not less than five minutes before drying And, preferably, let it air dry if possible. <br> <br>
+
+Care must be taken to disinfect places most vulnerable to pollution, such as door entry, windows and shoes. <br> <br>
+
+Every day, exposure to pollution sources is cleansed, sterilized and cleaned, including toilets and bathrooms, except in the case of a person with colds and coughs. In the absence of a private bathroom for the patient, the bathroom should be disinfected after every use and not once throughout the day. <br> <br>
+
+This solution is valid for disinfecting any surface of fabrics, metals, woods, and clothing, and can also be used as a spray on products purchased on store shelves. <br> <br> <br>
+
+<b> <font color = "red"> ventilation </font> </b> <br> <br>
+
+It is advisable to ventilate the house after using cleaning solutions to disinfect surfaces from the emerging corona virus, and follow the manufacturers instructions and code on household detergent packages, including diluted household solutions, to implement and apply appropriate ventilation, depending on the house and according to the cleaning product. <br> <br> <br>
+
+Use sterilization wipes on frequently-touched electronic items, such as phones and computers. <br> <br>
+
+<b> <font color = "red"> deal with waste </font> </b> <br> <br>
+
+Avoid touching used tissues and other waste when emptying the waste baskets. Wash your hands with soap and water after emptying the waste baskets and touch the used tissues and similar waste. <br> <br> <br>
+           </p>
+        ]]>
+    </string>
+
+    <string name="crowding_answer">
+        <![CDATA[
+        <p>
+The new Corona virus is spread mainly by contact with an infected person when it coughs or sneezes, or by droplets, saliva, or nasal secretions.
+Therefore, you should stay away from crowded places
+        </p>
+        ]]>
+    </string>
+
+
+    <string name="smoking_answer">
+        <![CDATA[
+In conjunction with the spread of the emerging "Corona" virus, "Covid-19", warnings for smokers to quit immediately spread. Health experts say that smoking reduces the body ability to fight infectious diseases.
+ <br> <br>
+The chief health officer of Britain, Chris Wighty, told the British Parliament that smokers should be concerned about respiratory infections, such as corona, because they are more likely to catch an infection and their immune system is not functioning as adequately.
+  <br> <br>
+"The time to quit smoking is now," said Mayor of New York City, Bill de Palacio, speaking about the incidence of new viral coronavirus in his city.
+  <br> <br>
+Al-Hurra channel mentioned that health experts say that smoking reduces the body ability to fight infectious diseases, including:
+Epidemiologist Saskia Popescu, who told Business Insider, that people with a history of smoking are at greater risk of developing acute respiratory problems or pneumonia.
+  <br> <br>
+Smoking also makes the symptoms of the virus worse, according to Professor Sanjaya Sinanayake, a professor at the Australian National University because it is linked to chronic lung and heart disease. When problems of this type occur, the symptoms of the “Covid-19” caused by the virus are exacerbated, because the latter affects the respiratory system.
+  <br> <br>
+Studies of people living with HIV in China indicate that the number of male victims of the virus is more than men, and experts believe that the reason for this is smoking, because the proportion of men who smoke in China is much greater than women, and according to a study conducted by the World Health Organization in 2019, 47.6% of Chinese men smoke, compared to only 1.8% of women.
+  <br> <br>
+A study by the California Tobacco Research Center indicates that "when a person lung is exposed to influenza or other infections, the harmful effects of smoking are more dangerous for smokers than for non-smokers."
+  <br> <br>        </p>
+        ]]>
+    </string>
+    <string name="travel_answer">
+        <![CDATA[
+<p>
+<h3>
+Tips before traveling to prevent corona virus
+</h3>
+It is not advisable to travel during this period without the need for it, but in the event that it is necessary to travel, measures must be taken to prevent infection with the Coronavirus. Here are the most important tips.
+<br>
+<h4>
+1- Be sure to wear a face mask
+</h4>
+The face mask does not prevent the virus by one hundred percent, but it reduces the chances of infection, and therefore this mask should be worn permanently during the travel trip and until reaching the country you go to.
+<br> <br>
+And in the case of difficulty wearing the mask all the time, it is advised to raise it for a few periods in the absence of crowded places to inhale the air, and then accelerate to wear it again, especially when there are people around.
+<br> <br>
+<h4>
+2- A lot of washing hands
+</h4>
+Handwashing helps reduce the risk of respiratory infections and infectious diseases while traveling, especially after touching any surfaces, and hands should be washed as often as possible.
+<br> <br>
+In the case of the inability to wash hands, they should not come into contact with the face, particularly the mouth, eyes and nose, as the infection is easily transmitted from the hands to the face in the event of contact with it.
+<br> <br>
+Wash hands for 20 seconds, taking care to infuse soap and water throughout the hand.
+<br> <br>
+Also, you should not touch the tap by hand, and use tissue paper for this purpose, because the tap is one of the places that can transmit the infection in the event that one of the infected people washes his hands beforehand.
+<br> <br>
+<h4>
+3- Using hand sanitizer constantly
+</h4>
+
+Besides hand washing, the hand sanitizer must be used frequently while traveling, as well as in the absence of soap and water, and it is recommended to choose a hand sanitizer that contains from 60 to 95 percent of alcohol.
+<br> <br>
+When using a hand sanitizer, a hand scrub must be done with the sterilizer well to permeate all parts of the hand, as the use of sterilizer will reduce the chances of infection but will not completely prevent it.
+<br> <br>
+<h4>
+4- Non-contact with surfaces
+</h4>
+One of the important things to be aware of is touching the various surfaces, so no surrounding surfaces should be touched because it is an effective means of transmitting viral infection easily, especially with the difficulty of controlling hand-to-face contact.
+<br> <br>
+It is also advised to use tissue paper to hold anything surrounding, such as knobs and various purposes, and get rid of these tissue immediately after use and not to put it in the pocket or bag.
+<br> <br>
+<h4>
+5- Covering the face when sneezing
+</h4>
+Just as you must protect yourself from infection with viruses, you should protect others in the event of any respiratory infection, by putting a tissue on the face.
+<br> <br>
+The elbow area can be used during sneezing in the absence of a tissue, but it is best to have tissue paper in the bag constantly during travel, and it is preferable to sterilize hands well after sneezing.
+<br> <br>
+<h4>
+6- Stay away from gathering places
+</h4>
+It is advised to avoid crowded places while traveling, as viruses that cause infection are spread, and it is preferable to sit far away while waiting for the plane, and avoid sitting in closed rooms where the chances of infection increase.
+<br> <br>
+And if you are standing in line during travel procedures, it is advised to keep a distance between you and the people around to avoid any infection, with wearing a face mask or putting a tissue on the mouth and nose in case the mask is not available.
+<br> <br>
+<h3>
+Tips to prevent Corona virus in the plane
+</h3>
+The plane is one of the most easily transmitted infections, as all people sit in a closed place at very close distances, and even with preventive measures taken in disinfection and sterilization of aircraft, the infection can be transmitted from person to person.
+<br> <br>
+To prevent corona virus in a plane, it is recommended to follow some procedures, namely:
+<b> <br> <br>
+Continue to wear the face mask:
+</b>
+It is advised not to give it up in the plane, and to take more than one muzzle in the personal bag.
+<b> <br> <br>
+Keep the face as far as possible away from the next person:
+</b>
+The face should be pointed in the other direction of the adjacent person while sitting in the plane, especially when sneezing.
+<b> <br> <br>
+Avoid using the bathroom in the plane as much as possible:
+</b>
+ It is preferable to enter the bathroom before boarding the aircraft, and in the event that it is necessary to use it, the plastic toilet cover must be placed before sitting on it, and the handle and faucet should not be touched by hand.        </p>
+
+        ]]>
+    </string>
+</resources>
